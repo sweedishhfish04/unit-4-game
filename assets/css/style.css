@@ -1,0 +1,67 @@
+#title {
+    width: 300px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: darkblue;  
+}
+h1 {
+    font-size: 30px;
+    text-align: center;
+    color: orange;
+}
+#main {
+    width: 960px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: wheat;
+    font-size:20px;
+}
+p {
+    display: block;
+    margin-bottom: 20px;
+}
+#stats {
+    height: 72px;
+        width: 960px;
+        margin: 30px auto;
+        padding: 20px;
+        background-color: orange;
+        font-size:20px;
+    }
+#wins {
+    width: 48%;
+    /*float: left;*/
+    margin-bottom: 30px;
+    display: inline-block;
+}
+#losses {
+    width: 48%;
+    /*float: right;*/
+    text-align: right;
+    margin-bottom: 30px;
+    display: inline-block;
+}
+#targetScore {
+    text-align: center;
+    font-size: 48px;
+    color: white;
+    text-shadow: 2px 2px 5px black;
+}
+
+.gem {
+    display: inline-block;
+    margin-right: 20px;
+}
+#gems {
+    width: 960px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: green;
+}
+#score {
+    display: inline-block;
+    font-size: 48px;
+    color: white;
+    text-shadow: 2px 2px 5px black;
+    padding-top: 20px;
+}
